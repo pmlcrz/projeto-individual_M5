@@ -1,4 +1,4 @@
-# Projeto individual do módulo 5 - Tecnologias server side
+# Projeto individual (facilitando o dia a dia) do módulo 5 - Tecnologias server side
 
 
 
@@ -27,5 +27,5 @@ Logo após os passos anteriores, execute no terminal o comando "node trabind.js"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
