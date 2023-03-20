@@ -12,7 +12,7 @@ $ git clone https://github.com/pmlgcz/projeto-individual_M5
 👉🏾 Agora crie o package.json
 $ npm init -y
 
- / *Caso dê algum erro, verifique se o "type": "module" está no package.json* /
+/ *Verifique se o "type": "module" está no package.json* /
 
 
 
