@@ -6,7 +6,7 @@
 
 👉🏾 Abra o seu terminal, navegue até o diretório onde deseja que o repositório seja clonado e utilize o seguinte comando:
 
-$ git clone https://github.com/pmlgcz/projeto-individual_M5
+$ git clone https://github.com/pmlgcz/projeto_facilitandoodiadia
 
 
 👉🏾 Agora crie o package.json
